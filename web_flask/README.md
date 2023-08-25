@@ -1,0 +1,1 @@
+This repository is an introduction to building a Web Framework with Flask; define routes with Flask; handle variables in a route; create a HTML response in Flask by ysing a template; create a dynamic template and display in HTML data from a MySQL database.
